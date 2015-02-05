@@ -24,7 +24,7 @@ ProposalItem
 -icon -> ikona
 -info -> co se vypise do toho cerneho okenka pri detailu
 -placeholders -> list stringu kde jsou {,},(,) atd a taky placeholder a nakonec cislo udavajici pocet tech placeholderu
--addddd
+
 
 
 DONE

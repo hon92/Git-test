@@ -1,0 +1,11 @@
+-jak zrychlit python
+-spoustet porad vlakno nebo signaly pro vlakno
+-show header gtk error
+-kaira 1.2 error
+-ktere vysledky zobrazovat
+
+Pep 8
+
+
+
+ 201512 function calls in 0.339 seconds
